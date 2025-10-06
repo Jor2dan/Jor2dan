@@ -15,17 +15,19 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=seabjorn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=francescobianco&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=seabjorn&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=francescobianco&icon=0&color=0)](https://visitcount.itsvg.in) 
+
 
 
 ##### Connect with me
 ![https://www.instagram.com/ihsanrsr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://github.com/seabjorn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ##### My Github Stats
-![Seabjorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=francescobianco&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![](https://nirzak-streak-stats.vercel.app/?user=francescobianco&theme=dark&hide_border=false)<br/>
+
 
 - 🔭 **I’m currently working on:**  
 Building high-performance backend systems using C++, C, and Python, focusing on efficiency and reliability.

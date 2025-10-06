@@ -5,7 +5,7 @@
 
 ##### Hi there! my name is Seabjorn, I'm just a student who likes doing computer experiments😶‍🌫️
 
-##### I code with
+#### I code with
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,html,js,python,laravel)](https://skillicons.dev)
 
@@ -45,14 +45,3 @@ Optimizing algorithms, cross-platform development, and low-level performance tun
 C/C++ backend design, Python APIs (FastAPI, Flask), database optimization, and socket programming.
 
 
-<h3 align="left">Play games with me</h3>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seanbjorn/seanbjorn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seanbjorn/seanbjorn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/seanbjorn/seanbjorn/output/pacman-contribution-graph.svg">
-</picture>
-
-###

@@ -1,6 +1,6 @@
 ## Hi there! I'm Seabjorn👋
 
-![seabbjorn](img/github-header-banner.png)
+![seabbjorn](img/github-header-banner (1).png)
 
 
 ##### Hi there! my name is Seabjorn, I'm just a student who likes doing computer experiments😶‍🌫️

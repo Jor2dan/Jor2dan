@@ -1,4 +1,4 @@
-## Hi there! I'm Seabjorn👋
+## Hi there! I'm Jor2dan👋
 
 ![seabbjorn](img/github-header-banner%20(1).png)
 
